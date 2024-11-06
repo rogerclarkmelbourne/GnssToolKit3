@@ -1,2 +1,1 @@
-# GnssToolKit3-binaries
-A showcase and test toolkit for GNSS receivers.
+#Installer for GnssToolKit3 binaries
